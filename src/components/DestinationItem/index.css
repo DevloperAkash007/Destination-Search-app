@@ -1,0 +1,18 @@
+.destination-item {
+  width: 100%;
+  margin: 20px;
+}
+@media (min-width: 768px) {
+  .destination-item {
+    width: 40%;
+  }
+}
+.image {
+  width: 100%;
+}
+.destination-item {
+  font-size: 20px;
+  font-family: 'Robota';
+  font-weight: 700;
+  color: #000000;
+}
